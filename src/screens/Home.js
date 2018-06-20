@@ -6,7 +6,7 @@ const Home = () => (
     <section className="intro">
       My name is Victor Nghe. I&apos;m a{' '}
       <a href="https://www.linkedin.com/in/victornghe">web developer</a> by
-      trade, but I dabble in <a href="https://www.victorcares.com">writing</a>{' '}
+      trade, but I dabble in <a href="https://victorcares.wordpress.com/">writing</a>{' '}
       from time to time.
     </section>
 
