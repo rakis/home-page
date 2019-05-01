@@ -5,7 +5,7 @@ const Home = () => (
     <h1>Hello, World! <span role="img" aria-label="">👋</span></h1>
     <section className="intro">
       My name is Victor Nghe. I&apos;m a{' '}
-      <a href="">web developer</a> by
+      <a href="https://www.linkedin.com/in/victornghe">web developer</a> by
       trade, but I dabble in <a href="https://victorcares.wordpress.com/">writing</a>{' '}
       from time to time.
     </section>
