@@ -26,8 +26,8 @@ const Home = () => (
       <h3>Links:</h3>
       <ul>
         <li><a href="https://www.linkedin.com/in/victornghe">LinkedIn</a></li>
-        <li><a href="https://blog.victornghe.com">Blog: Victor Explains Nothing New</a></li>
-        <li><a href="https://www.victorcares.com">Blog: Victor Cares</a></li>
+        <li><a href="https://blog.victornghe.com">Blog</a></li>
+        <li><a href="https://www.victorcares.com">Victor Cares</a></li>
       </ul>
     </section>
   </div>
