@@ -1,7 +1,6 @@
-@import "reset";
-@import "modernscale";
-
-@import "modules/screens/Home";
+@use "reset";
+@use "modernscale";
+@use "modules/screens/Home";
 
 body {
   font-size: 20px;

@@ -1,8 +1,10 @@
-import * as React from 'react';
+import type { FC } from 'react';
 
-const Home = () => (
-  <div className="home-screen">
-    <h1>Hello, World! <span role="img" aria-label="">👋</span></h1>
+const Home: FC = () => (
+  <main className="home-screen">
+    <h1>
+      Hello, World! <span role="img" aria-label="waving hand">👋</span>
+    </h1>
     <section className="intro">
       My name is Victor Nghe. I&apos;m a{' '}
       <a href="https://www.linkedin.com/in/victornghe">web developer</a> by
@@ -13,7 +15,7 @@ const Home = () => (
     <section className="about-me">
       <h3>Things I&apos;m currently learning:</h3>
       <ul>
-        <li>Italian <span role="img" aria-label="">🇮🇹</span></li>
+        <li>Italian <span role="img" aria-label="flag of Italy">🇮🇹</span></li>
         <li><a href="https://www.rust-lang.org/">Rust</a></li>
         <li><a href="https://flutter.dev/">Flutter</a></li>
       </ul>
@@ -30,7 +32,7 @@ const Home = () => (
         <li><a href="https://www.victorcares.com">Victor Cares</a></li>
       </ul>
     </section>
-  </div>
+  </main>
 );
 
 export default Home;
