@@ -23,7 +23,7 @@
   "homepage": "https://github.com/rakis/home-page#readme",
   "dependencies": {
     "@astrojs/react": "^7.0.1",
-    "astro": "^7.3.7",
+    "astro": "^7.4.7",
     "react": "^19.3.0",
     "react-dom": "^19.3.0"
   },
